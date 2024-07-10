@@ -1,5 +1,6 @@
 # 💫 About Me:
-Hey! I'm currently working on project named VILLAGE MTA
+Hey! I'm currently working on some big project's!
+Check it out, https://vmta.pl & https://d4nte.pl
 
 
 ## 🌐 Socials:
