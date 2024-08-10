@@ -1,4 +1,4 @@
-<img align="right" width="300rem" src='(https://avatars.githubusercontent.com/u/111151866?v=4' alt='d4nte to kozak'>
+<img align="right" width="300rem" src='https://avatars.githubusercontent.com/u/111151866?v=4' alt='d4nte to kozak'>
 
 <h1 align="center">Hi, I'm <mark>Maciej "D4NTE"</mark></h1>
 <h5 align="center"><a href="https://d4tech.pl/">website</a></h5>
