@@ -16,5 +16,5 @@ class D4NTE:
         self.mainlanguage = 'javascript'
         self.languages = ['typescript', 'react', 'c#', 'python', 'java', 'c++', 'php', 'html', 'css', 'lua']
         
-me = D4NTE()
+me = Nbi()
 ```
