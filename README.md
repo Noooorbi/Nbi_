@@ -14,7 +14,7 @@ class Nbi:
     
     def skills(self):
         self.mainlanguage = 'javascript'
-        self.languages = ['typescript', 'react', 'c#', 'python', 'java', 'c++', 'php', 'html', 'css', 'lua']
+        self.languages = ['typescript', 'react', 'python', 'html', 'lua']
         
 me = Nbi()
 ```
