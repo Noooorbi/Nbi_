@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm <mark>Norbert "Nbi"</mark></h1>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=demon981&label=Profile%20views&color=0e75b6&style=flat" alt="bbalduzz" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Noooorbi&label=Profile%20views&color=0e75b6&style=flat" alt="bbalduzz" /> </p>
 
 ```python
 class Nbi:
