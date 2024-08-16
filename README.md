@@ -10,7 +10,7 @@ class Nbi:
     def whoami(self):
         self.home = 'PL'
         self.year = 2004
-        self.pet = 'Belgian Malinois'
+        self.pet = 'German Shepherd'
     
     def skills(self):
         self.mainlanguage = 'lua'
