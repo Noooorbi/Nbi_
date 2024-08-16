@@ -13,7 +13,7 @@ class Nbi:
         self.pet = 'Belgian Malinois'
     
     def skills(self):
-        self.mainlanguage = 'javascript'
+        self.mainlanguage = 'lua'
         self.languages = ['typescript', 'react', 'python', 'html', 'lua']
         
 me = Nbi()
