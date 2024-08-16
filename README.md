@@ -2,7 +2,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=demon981&label=Profile%20views&color=0e75b6&style=flat" alt="bbalduzz" /> </p>
 
 ```python
-class D4NTE:
+class Nbi:
     def __init__(self):
         self.name = 'Norbert'
         self.nick = 'Nbi'
