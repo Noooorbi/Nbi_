@@ -15,7 +15,7 @@ class D4NTE:
     
     def skills(self):
         self.mainlanguage = 'javascript'
-        self.learnings = ['typescript', 'react', 'c#', 'python', 'java', 'c++', 'php', 'html', 'css', 'lua']
+        self.languages = ['typescript', 'react', 'c#', 'python', 'java', 'c++', 'php', 'html', 'css', 'lua']
         
 me = D4NTE()
 ```
